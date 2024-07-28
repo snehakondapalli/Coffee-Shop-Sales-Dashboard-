@@ -1,7 +1,7 @@
 <img width="1013" alt="Dashboard" src="https://github.com/user-attachments/assets/e61847ab-397b-4866-b573-a132176011fe"># Coffee-Shop-Sales-Dashboard-
 Interactive Sales dashboard of a Coffee shop 
 
-![Dashboard of sales information of a Coffee shop](Dashboard.png)
+![Dashboard of sales information of a Coffee shop]()
 
 # Tableau Dashboard
 Click [Link](https://us-east-1.online.tableau.com/#/site/skndula2f1659862fe/views/Cofeechai_tableau_CXOdashboard/SalesdashboardforCXO?:iid=4) to view the interactive dashboard
