@@ -12,15 +12,14 @@ Click [Link](https://us-east-1.online.tableau.com/#/site/skndula2f1659862fe/view
 
 * Columbian Coffee: Achieved the highest sales of $128K, generating a profit of $55K. Additionally, the budget profit for this product is $57K.
 
-![Highly sold coffee](<img width="1467" alt="Sales By Product" src="https://github.com/user-attachments/assets/50352e8d-13e5-4189-aed3-376d34ad8207">
-)
+![Highly sold coffee](Sales_By_Product.png)
 2. Top Performing Regions:
 
 * California: Led with the highest profit of $31,795.
 * Illinois: Followed closely with a profit of $30,821.
 * Time Frame: These figures pertain to the period between 2010 and 2011.
 
-![Budget Vs Actual Visualization](Budget Vs Actual.png)
+![Budget Vs Actual Visualization](Budget_Vs_Actual.png)
 t.png)
 3. Pareto Analysis Insights:
 
