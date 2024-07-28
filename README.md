@@ -26,7 +26,7 @@ t.png)
 * Implemented a Pareto analysis to identify the key products driving sales.
 * Columbian Coffee and Lemon Tea: These products fall within the top 20% of the offerings and contribute to the highest sales.
 
-![Budget Vs Actual Visualization](Sales by state.png)
+![Budget Vs Actual Visualization](Pareto_Analysis.png)
 )
 4. Cost of Goods Sold (COGS):
 
