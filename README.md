@@ -20,14 +20,14 @@ Click [Link](https://us-east-1.online.tableau.com/#/site/skndula2f1659862fe/view
 * Time Frame: These figures pertain to the period between 2010 and 2011.
 
 ![Budget Vs Actual Visualization](Budget_Vs_Actual.png)
-t.png)
+
 3. Pareto Analysis Insights:
 
 * Implemented a Pareto analysis to identify the key products driving sales.
 * Columbian Coffee and Lemon Tea: These products fall within the top 20% of the offerings and contribute to the highest sales.
 
 ![Budget Vs Actual Visualization](Pareto_Analysis.png)
-)
+
 4. Cost of Goods Sold (COGS):
 
 * Major Market: Incurred the highest cost of goods sold at $185,398.
