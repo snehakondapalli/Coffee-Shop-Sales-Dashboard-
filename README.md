@@ -1,6 +1,7 @@
 
 # Coffee-Shop-Sales-Dashboard
-Interactive Sales dashboard of a Coffee shop 
+An **interactive Tableau dashboard** showcasing the sales performance of a coffee shop. The dashboard provides insights into sales trends, product performance, regional profits, and cost metrics from 2010 to 2011.
+ 
 
 ![Dashboard of sales information of a Coffee shop](Dashboard.png)
 
